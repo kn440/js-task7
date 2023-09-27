@@ -14,7 +14,7 @@
         }
         
         .s1container {
-            width: 1600px;
+            width: 768px;
             height: 75px;
             background-color: #222222;
         }
@@ -22,51 +22,52 @@
         .s1-link1 {
             width: 44px;
             height: 38px;
-            margin-left: 231px;
+            margin-left: 32px;
         }
         
         .s1-link2 {
             width: 26.002px;
             height: 26.792px;
             fill: #E8E8E8;
-            margin-left: 48px;
+            margin-left: 41px;
         }
         
         .s1-link3 {
             width: 158.996px;
             height: 29px;
-            margin-left: 859px;
+            margin-left: 424px;
         }
         
         .s2container {
-            width: 1600px;
-            height: 764px;
+            width: 769px;
+            height: 367px;
             background-color: #F1E4E6;
             display: flex;
             justify-content: space-between;
         }
         
         .s2text {
-            margin-top: 290px;
-            margin-right: 331px;
+            margin-top: 138px;
+            margin-right: 33px;
         }
         
         .s2title {
             color: #222;
             font-family: Lato;
-            font-size: 48px;
+            font-size: 44px;
             font-weight: 900;
         }
         
         .s2subtitle {
             color: #222;
             font-family: Lato;
-            font-size: 32px;
+            font-size: 24px;
             font-weight: 700;
         }
         
         .colorred {
             color: #F16D7F;
+            font-size: 24px;
         }
         
         .section3 {
@@ -74,24 +75,24 @@
         }
         
         .s3container {
-            width: 1140px;
+            width: 734px;
             display: flex;
             justify-content: space-between;
-            margin-left: 230px;
-            margin-right: 230px;
-            margin-bottom: 30px;
+            margin-left: 16px;
+            margin-right: 16px;
+            margin-bottom: 19px;
         }
         
         .s3-link {
             text-decoration: none;
-            width: 360px;
-            height: 260px;
+            width: 231.9px;
+            height: 167.6px;
             flex-shrink: 0;
             background-color: rgba(33, 22, 22, 0.70);
             display: flex;
             justify-content: center;
             align-items: center;
-            margin-top: 65px;
+            margin-top: 64px;
         }
         
         .s3-link-text {
@@ -106,20 +107,20 @@
         }
         
         .s4container {
-            width: 1140px;
-            margin-left: 230px;
+            width: 734px;
+            margin-left: 19px;
         }
         
         .s4-link {
             text-decoration: none;
-            width: 1140px;
-            height: 180px;
+            width: 734px;
+            height: 116px;
             flex-shrink: 0;
             background-color: rgba(33, 22, 22, 0.70);
             display: flex;
             justify-content: center;
             align-items: center;
-            margin-top: 30px;
+            margin-top: 19px;
         }
         
         .s4-link-text {
@@ -133,35 +134,37 @@
         }
         
         .s5container {
-            width: 1600px;
+            width: 760px;
             display: flex;
             justify-content: center;
         }
         
         .s5title {
             color: #222;
+            text-align: center;
             font-family: Lato;
             font-size: 30px;
             font-weight: 400;
-            margin-top: 96px;
+            margin-top: 109px;
         }
         
         .s5subtitle {
             color: #9F9F9F;
+            text-align: center;
             font-family: Lato;
             font-size: 14px;
             font-weight: 400;
-            margin-top: 6px;
+            margin-top: 3.3px;
         }
         
         .s6container {
-            width: 1140px;
+            width: 734px;
             display: grid;
             flex-wrap: wrap;
             justify-content: space-between;
-            margin-left: 230px;
-            margin-right: 230px;
-            margin-top: 48px;
+            margin-left: 16px;
+            margin-right: 16px;
+            margin-top: 72px;
             grid-template-columns: repeat(2, 360px);
             grid-auto-flow: dense;
         }
